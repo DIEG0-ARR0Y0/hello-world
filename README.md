@@ -1,2 +1,3 @@
 # hello-world
-first repository
+first repository 
+this is my first repositery, minding if this is pure text or some sort of language...
